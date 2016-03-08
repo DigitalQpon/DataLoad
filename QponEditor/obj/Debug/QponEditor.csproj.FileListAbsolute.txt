@@ -1,0 +1,12 @@
+F:\WorkRelated\Qpon\QponEditor\bin\Debug\QponEditor.exe.config
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.BaseEditorF.resources
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.MainF.resources
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.Properties.Resources.resources
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.ProsperentEdtF.resources
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.csproj.GenerateResource.Cache
+F:\WorkRelated\Qpon\QponEditor\bin\Debug\QponEditor.exe
+F:\WorkRelated\Qpon\QponEditor\bin\Debug\QponEditor.pdb
+F:\WorkRelated\Qpon\QponEditor\bin\Debug\Newtonsoft.Json.dll
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.exe
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.pdb
+F:\WorkRelated\Qpon\QponEditor\obj\Debug\QponEditor.LoginF.resources

@@ -1,0 +1,10 @@
+F:\WorkRelated\Qpon\QponCollector\QponCollector\bin\Debug\QponCollector.exe.config
+F:\WorkRelated\Qpon\QponCollector\QponCollector\obj\Debug\QponCollector.csprojResolveAssemblyReference.cache
+F:\WorkRelated\Qpon\QponCollector\QponCollector\obj\Debug\QponCollector.MainF.resources
+F:\WorkRelated\Qpon\QponCollector\QponCollector\obj\Debug\QponCollector.Properties.Resources.resources
+F:\WorkRelated\Qpon\QponCollector\QponCollector\obj\Debug\QponCollector.csproj.GenerateResource.Cache
+F:\WorkRelated\Qpon\QponCollector\QponCollector\bin\Debug\QponCollector.exe
+F:\WorkRelated\Qpon\QponCollector\QponCollector\bin\Debug\QponCollector.pdb
+F:\WorkRelated\Qpon\QponCollector\QponCollector\bin\Debug\Newtonsoft.Json.dll
+F:\WorkRelated\Qpon\QponCollector\QponCollector\obj\Debug\QponCollector.exe
+F:\WorkRelated\Qpon\QponCollector\QponCollector\obj\Debug\QponCollector.pdb

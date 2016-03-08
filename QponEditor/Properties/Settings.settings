@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QponEditor.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="intermediate_qponcrush_dbConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=oud11hbwrc.database.windows.net;Initial Catalog=intermediate-qponcrush_db;User ID=saviobernard;Password=QponCrush15;Connect Timeout=60&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=oud11hbwrc.database.windows.net;Initial Catalog=intermediate-qponcrush_db;User ID=saviobernard;Password=QponCrush15;Connect Timeout=60</Value>
+    </Setting>
+    <Setting Name="QponCrushConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=njk8bedrfs.database.windows.net;Initial Catalog=QponQrushb22;Persist Security Info=True;User ID=qpon@njk8bedrfs;Password=crushin01$&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=njk8bedrfs.database.windows.net;Initial Catalog=QponQrushb22;Persist Security Info=True;User ID=qpon@njk8bedrfs;Password=crushin01$</Value>
+    </Setting>
+    <Setting Name="QponQrushb22ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=njk8bedrfs.database.windows.net;Initial Catalog=QponQrushb22;User ID=qpon;Password=crushin01$&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=njk8bedrfs.database.windows.net;Initial Catalog=QponQrushb22;User ID=qpon;Password=crushin01$</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
